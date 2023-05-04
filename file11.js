@@ -27,4 +27,4 @@ console.log(Number.MAX_SAFE_INTEGER);
 let myNumber1= BigInt(12);
 let samemyNumber= 123n;
 console.log(myNumber1);
-console.log(myNumber1+samemyNumber);
+console.log(myNumber1+ samemyNumber);
