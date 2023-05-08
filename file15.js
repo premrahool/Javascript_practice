@@ -1,6 +1,6 @@
 //Ternery operator
 
-//without
+//without Ternery
 
 let age=4;
 let drink;
@@ -12,7 +12,7 @@ drink="coffee";
 console.log(drink);
 
 
-//with 
+//with Ternery
 
 let age1=8;
 
