@@ -11,3 +11,4 @@ let [myvar1,myvar2, ...myNewArray]=myArray;
 console.log("value of myvar1",myvar1);
 console.log("value of myvar1",myvar1);
 console.log(myNewArray);
+
